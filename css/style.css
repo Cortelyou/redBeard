@@ -1,0 +1,30 @@
+/*
+@brand-primary: darken(#428bca, 6.5%); // #337ab7
+@brand-success: #5cb85c;
+@brand-info:    #5bc0de;
+@brand-warning: #f0ad4e;
+@brand-danger:  #d9534f;
+*/
+
+
+
+.body{
+    margin-top:60px
+}
+
+
+/*General format for heading and format*/
+
+
+.jumbotron  {
+  background-image: url("../img/graffiti.jpg");  
+  background-size: cover;  
+  color:rgb(106,159,177);
+}
+
+/* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
