@@ -1,4 +1,4 @@
-/*
+/* colors info
 @brand-primary: darken(#428bca, 6.5%); // #337ab7
 @brand-success: #5cb85c;
 @brand-info:    #5bc0de;
@@ -24,7 +24,13 @@
 
 /* Set black background color, white text and some padding */
     footer {
-      background-color: #555;
+      background-color:  #d9534f;
       color: white;
-      padding: 15px;
+      padding: 55px;
+    }
+    .work{
+      color:  #d9534f;
+      font-size: x-large;
+      padding: 60 px;
+      
     }
