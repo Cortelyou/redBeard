@@ -21,6 +21,39 @@
   background-size: cover;  
   color:white;
 }
+/*CONTACT page*/
+.contact-page {
+    margin:auto;
+    text-align: center
+}
+
+.contact {
+    width:320px;
+    height:350px;
+    vertical-align: inherit;
+    display:inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left:10px;
+    padding-right: 4px;
+    padding-top:10px;
+    text-align: center;
+    background-image: url("bieber.jpg");
+}
+
+.contact h1 {
+    text-align: center;
+    font-size-adjust: inherit;
+}
+
+iframe{
+    width:20vw;
+    height:30vh;
+    margin:15vh, 15vw;
+    border: 3px, solid blue;
+   margin: auto;
+    
+}
 
 /* Set black background color, white text and some padding */
     footer {
@@ -34,3 +67,4 @@
       padding: 60 px;
       
     }
+    
